@@ -1,0 +1,74 @@
+{
+	"songs":[
+		{
+			"id":0,
+			"name":"Alright",
+			"artist":"Ghost'n'ghost",
+			"song":"music/Alright.mp3",
+			"image":"img/Alright.jpg"
+		},
+		{
+			"id":1,
+			"name":"Fly Away",
+			"artist":"TheFatRat, Anjulie",
+			"song":"music/Fly Away.mp3",
+			"image":"img/Fly Away.jpg"
+		},
+		{
+			"id":2,
+			"name":"Go 4 It",
+			"artist":"Nitro Fun",
+			"song":"music/go 4 it.mp3",
+			"image":"img/Go 4 It.jpg"
+		},
+		{
+			"id":3,
+			"name":"Leaders",
+			"artist":"Nitro Fun",
+			"song":"music/leaders.mp3",
+			"image":"img/Leaders.jpg"
+		},
+		{
+			"id":4,
+			"name":"Monody",
+			"artist":"TheFatRat, Laura Brehm",
+			"song":"music/Monody.mp3",
+			"image":"img/Monody.jpg"
+		},
+		{
+			"id":5,
+			"name":"Moonlight",
+			"artist":"Stephen Flores",
+			"song":"music/Moonlight.mp3",
+			"image":"img/Moonlight.jpg"
+		},
+		{
+			"id":6,
+			"name":"Prelude",
+			"artist":"TheFatRat",
+			"song":"music/Prelude.mp3",
+			"image":"img/Prelude.jpg"
+		},
+		{
+			"id":7,
+			"name":"Sugar High",
+			"artist":"JJD",
+			"song":"music/Sugar High.mp3",
+			"image":"img/Sugar High.jpg"
+		},
+		{
+			"id":8,
+			"name":"Time Lapse",
+			"artist":"TheFatRat",
+			"song":"music/Time Lapse.mp3",
+			"image":"img/Time Lapse.jpg"
+		},
+		{
+			"id":9,
+			"name":"Unity",
+			"artist":"TheFatRat",
+			"song":"music/Unity.mp3",
+			"image":"img/Unity.jpg"
+		}
+	]
+}
